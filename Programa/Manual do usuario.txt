@@ -1,0 +1,21 @@
+====================Manual do Programa em C=====================================
+
+Uma vez que o programa for compilado, digite o login e senha, seguindo o passo á passo:
+
+*Adentrando a plataforma:
+Login: 1234
+Senha: 4321
+
+*logo em seguida preenche-se os dados do cliente, atentando-se sempre à forma em que os dados devem ser digitados:
+
+Se for pedido uma informação que só contenha numero então ele só aceitará dados com numeros por exemplo: CPF ou telefone.
+Se for pedir uma informação que só peça letras ele só aceitará letras por exemplo: nome ou comorbidade.
+obs: Se houver algum erro dentro do programa ele acusará pedindo só letras ou só numeros.
+
+*É portante resaltar que o programa não aceita letras tais como :Ç,
+*Também não aceita acentos como o ~,^,´,` ou caracteres especiais.
+
+
+//==========//=============//============//=======================================
+
+
